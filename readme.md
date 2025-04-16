@@ -5,9 +5,7 @@ A FastAPI-based Single Sign-On (SSO) authentication system that implements Googl
 ## Features
 
 - Google SSO integration
-- Clean and responsive UI
-- Session management
-- Version tracking for dependencies
+- Clean UI
 
 ## Prerequisites
 
@@ -21,8 +19,8 @@ A FastAPI-based Single Sign-On (SSO) authentication system that implements Googl
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd sso-fastapi
+git clone https://github.com/Rohanpudasaini/fastapi-sso.git
+cd fastapi-sso
 ```
 
 2. Create a virtual environment and activate it:
