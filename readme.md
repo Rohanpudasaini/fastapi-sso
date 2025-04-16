@@ -39,6 +39,7 @@ pip install -r requirements.txt
 GOOGLE_CLIENT_ID=your_google_client_id
 GOOGLE_CLIENT_SECRET=your_google_client_secret
 ```
+To get the `client_id` and `client_secret` please follow this [tutorial](https://itnext.io/fastapi-google-single-sign-on-sso-47454e2e2859)
 
 ## Project Structure
 
