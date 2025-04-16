@@ -1,0 +1,4 @@
+fastapi
+fastapi-sso
+jinja2
+uvicorn
