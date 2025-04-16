@@ -83,3 +83,9 @@ python main.py
 
 ## Extras
 You can see the request we get from google as callback in the `google_response.py` file.
+
+
+## Refrence
+Most of the code are taken refrence from this medium article [article](https://itnext.io/fastapi-google-single-sign-on-sso-47454e2e2859). Thank you [Chris Karvouniaris](https://github.com/chrisK824)
+
+
